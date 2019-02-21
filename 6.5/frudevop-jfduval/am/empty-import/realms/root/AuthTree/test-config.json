@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "realm" : "/",
+    "amsterVersion" : "6.5.0",
+    "entityType" : "AuthTree",
+    "entityId" : "test-config",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "test-config",
+    "nodes" : {
+      "fe7c4dae-51bd-4292-9cf7-356db51375b4" : {
+        "displayName" : "Message Node",
+        "nodeType" : "MessageNode",
+        "connections" : {
+          "true" : "70e691a5-1e33-4ac3-a356-e7b6d60d92e0",
+          "false" : "e301438c-0bd0-429c-ab0c-66126501069a"
+        }
+      }
+    },
+    "entryNodeId" : "fe7c4dae-51bd-4292-9cf7-356db51375b4"
+  }
+}
